@@ -2,7 +2,7 @@
   "name": "treemap_diagram",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://loosetooth.github.io/treemap_diagram/",
+  "homepage": "http://loosetooth.github.io/treemap_diagram/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
